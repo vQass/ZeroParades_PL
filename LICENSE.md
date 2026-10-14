@@ -11,6 +11,10 @@ Na tych samych warunkach 4.0 Międzynarodowe (CC BY-NC-SA 4.0)**.
 Możesz je kopiować, rozpowszechniać i zmieniać, pod warunkiem że: podasz źródło
 (https://github.com/vQass/ZeroParades_PL), nie użyjesz ich komercyjnie i udostępnisz swoje zmiany na tej samej licencji.
 
+Licencja obejmuje wyłącznie polski tekst tłumaczenia i tylko w zakresie praw przysługujących jego autorowi; nie dotyczy
+oryginalnych tekstów, nazw ani innych elementów gry, do których wszelkie prawa zachowuje ZA/UM. Na żądanie właściciela praw
+do gry tłumaczenie zostanie wycofane, a repozytorium usunięte.
+
 Pełny tekst licencji: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl
 Streszczenie: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl
 
