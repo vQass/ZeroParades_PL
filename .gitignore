@@ -1,0 +1,6 @@
+# kopie oryginalnych plików gry robione przez instalator – to pliki ZA/UM, nie trafiają do repo
+backup/
+# zbudowane pliki (add_language.py --out)
+build_out/
+__pycache__/
+*.pyc
