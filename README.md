@@ -20,9 +20,7 @@ niekonsekwencje (np. „ty” / „pan” w zwracaniu się do kogoś) albo niezr
 **Widzisz błąd?** Zgłoś go w [Issues](https://github.com/vQass/ZeroParades_PL/issues). Najbardziej pomoże:
 
 - polski tekst, który jest źle (wystarczy fragment),
-- angielski oryginał – w trybie „Polski + EN” widać go pod linią,
-- gdzie w grze to było (postać, miejsce, zadanie),
-- najlepiej zrzut ekranu.
+- angielski oryginał – w trybie „Polski + EN” widać go pod linią.
 
 Każda uwaga się przyda – także „to brzmi nienaturalnie” albo „ta postać mówi do mnie raz na ty, raz na pan”.
 
