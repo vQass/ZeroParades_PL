@@ -10,6 +10,12 @@ Dodaje do gry dwa nowe języki, nie zabierając żadnego istniejącego:
 Przetłumaczone jest 100 % tekstu gry (ok. 73 700 wpisów, w tym 67 600 linii dialogów).
 Wersja **beta** - testowana na Steamie (Windows).
 
+## Zrzuty ekranu
+
+| Wybór języka w ustawieniach | Tworzenie postaci | Dialog w trybie „Polski + EN” |
+|---|---|---|
+| ![Wybór języka](docs/screens/01_wybor_jezyka.webp) | ![Tworzenie postaci](docs/screens/02_tworzenie_postaci.webp) | ![Dialog Polski + EN](docs/screens/03_dialog_polski_en.webp) |
+
 ## O tłumaczeniu
 
 Tłumaczenie powstało w przeważającej części z pomocą AI (modele Claude firmy Anthropic), pod nadzorem człowieka:
